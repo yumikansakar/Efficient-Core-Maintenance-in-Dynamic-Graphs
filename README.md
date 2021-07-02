@@ -8,4 +8,4 @@ You can run the project as a normal Java Program by building the program and run
 
 Datasets are encoded to the code, so the dataset names must be changed in this program.
 
-Parameters are also encoded in the code it selt.
+Parameters are also encoded in the code it self.
